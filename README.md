@@ -50,7 +50,7 @@
 🖥
     
       1. **mod_wsgi** installieren und aktivieren
-      2. AlienPimp als Python WSGI-App einrichten (`alienpimp.wsgi`)
+      2. Apexs als Python WSGI-App einrichten (`apexs.wsgi`)
       3. Apache-Site mit `WSGIScriptAlias` konfigurieren
       4. Paket-Repositories per Apache statisch hosten
       5. Optional: REST-API via Flask/FastAPI erweitern
