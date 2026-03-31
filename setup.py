@@ -48,8 +48,8 @@ setup(
     
     # Zusätzliche Links für dein Projekt
     project_urls={
-        "Source": "https://github.com/M4tth4ck333/alienpimp", # <-- HIER AUCH ÄNDERN
-        "Bug Tracker": "https://github.com/M4tth4ck333/alienpimp/issues", # <-- UND HIER
+        "Source": "https://github.com/M4tth4ck333/apexs", # <-- HIER AUCH ÄNDERN
+        "Bug Tracker": "https://github.com/M4tth4ck333/apexs/issues", # <-- UND HIER
     },
     include_package_data=True,
 )
